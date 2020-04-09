@@ -11,6 +11,7 @@ body {
     text-align: right;
     width: 140px;
     padding-right: 35px;
+    padding-top: 8px;
 }
 
 .menu-opcoes ul{
@@ -19,4 +20,14 @@ body {
 
 .menu-opcoes a {
     color: #003366;
+}
+
+.menu-opcoes ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 940px;
 }
